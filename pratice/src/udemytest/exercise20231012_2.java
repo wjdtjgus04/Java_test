@@ -7,8 +7,10 @@ public class exercise20231012_2 {
 		
 		int hour = 24;
 		int minute = 60;
-		System.out.println("하루는 몇분입니까?>> "+(hour*minute)+"분" );
+		int second = 60;
+		System.out.println("하루는 몇초입니까?>> "+(hour*minute*second)+"초" );
 
 	}
 
 }
+

@@ -6,7 +6,12 @@ public class exercise20231012_3 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hello world");
-		System.out.println("5*3 = "+5*3);
+		System.out.println("5*3 = "+5*3+"\n");
+		
+		for(int i = 1; i<11; i++) {
+			System.out.println("5 * "+i+" = "+5*i);
+		}
+		
 	}
 
 }

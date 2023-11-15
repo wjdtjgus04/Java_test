@@ -7,6 +7,5 @@ public class ex4_1 {
 		if (score >60) {
 			System.out.println("합격입니다");
 		}
-
 	}
 }

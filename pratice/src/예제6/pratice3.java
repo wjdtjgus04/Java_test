@@ -27,7 +27,7 @@ class Student_2 {
 	int eng;
 	int math;
 
-	Student() {
+	void Student() {
 		
 	}
 
